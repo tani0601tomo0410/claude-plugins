@@ -1,0 +1,18 @@
+{
+  "name": "tani-skills",
+  "version": "1.0.0",
+  "description": "Personal Claude Code skills and workflows",
+  "author": {
+    "name": "tani0601tomo0410",
+    "email": "tani0601tomo0410@yahoo.co.jp"
+  },
+  "repository": "https://github.com/tani0601tomo0410/claude-plugins",
+  "license": "MIT",
+  "keywords": ["skills", "personal", "workflow"],
+  "skills": [
+    "./skills/"
+  ],
+  "commands": [
+    "./commands/"
+  ]
+}

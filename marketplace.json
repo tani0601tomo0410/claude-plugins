@@ -1,0 +1,25 @@
+{
+  "name": "tani-claude-plugins",
+  "owner": {
+    "name": "tani0601tomo0410",
+    "email": "tani0601tomo0410@yahoo.co.jp"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins and skills for tani0601tomo0410"
+  },
+  "plugins": [
+    {
+      "name": "tani-skills",
+      "source": "./tani-skills",
+      "description": "Personal skills and workflows",
+      "version": "1.0.0",
+      "author": {
+        "name": "tani0601tomo0410"
+      },
+      "license": "MIT",
+      "keywords": ["skills", "personal", "workflow"],
+      "category": "workflow",
+      "strict": false
+    }
+  ]
+}
